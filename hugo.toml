@@ -28,7 +28,7 @@ contentDir = "content"
     mono_font = "Fira Code"
 
     [params.footer]
-        copyright = "© :YEAR: SHIZO::GAMES"
+        copyright = "© :YEAR: S::GΔMES"
 
     [params.docs]
         title = "KDebugger"
